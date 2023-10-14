@@ -1,2 +1,3 @@
-# DIce ROller
+# Dice Roller
+
 Simple Roll the DIce game.

@@ -1,14 +1,16 @@
 # File Organizer
-It organizes your files like images, audio, videos, docments and others to it's seperate directory.
+
+It organizes your files like images, audio, videos, documents and others to it's separate directory.
 
 ## Installation
+
 1. Install python3 on you machine
    For Linux,
    ```
-   apt intall python3 -y
+   apt install python3 -y
    ```
 2. Goto the Script Directory.
-3. Install Requiremnts
+3. Install Requirements
    ```
    pip install requirements.txt
    ```
