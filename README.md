@@ -1,19 +1,14 @@
 # 🐍 PyScripts
 
-_Useful Python Scripts_
+_Collection of Useful Python Scripts_
 
-### 💻 _What Should I Contribute?🤔✒️_
+## 💻 _What Should I Contribute?🤔✒️_
 
-_Any Useful Program language is accepted_
+_Any Useful Python Program or Script would be accepted_
 
 ### 🚀 _Steps to Contribute_
+1. _Create an issue describing the new script you want to add 💡_
+2. _Fork this repository & make a branch 🍴_
+3. _Add your program in separate directory 💻 (with README.md 📖)_
+6. _Make a Pull Request 🎉_
 
-#### <b>_1. Fork this repository & make a branch 🍴_</b>
-
-#### <b>_2. Add any program in separate directory 💻_ </><b>
-
-#### <b>_3. Star ⭐ this repository_</b>
-
-#### <b>_4. Make a Pull Request 🔁_</b>
-
-<br>
